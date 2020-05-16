@@ -18,6 +18,7 @@ function App() {
     setCurrentImage(0);
     setViewerIsOpen(false);
   };
+  console.log(photos)
 
   return (
     <div>
